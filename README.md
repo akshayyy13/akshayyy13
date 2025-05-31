@@ -12,6 +12,8 @@
 
 [![Codeforces Stats](https://cf-leaderboard-omega.vercel.app/api?username=akshayyy13)](https://codeforces.com/profile/akshayyy13)
 
+- 🔰 Solved 350+ DSA problems on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aks333552/practice/)
+
 ## 🚀 About Me
 
 - 👨‍💻 I'm currently working in TCS Bangalore
