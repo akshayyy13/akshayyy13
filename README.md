@@ -8,11 +8,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/akshayyy13?theme=dark)
 
-![Codeforces](https://cp-profiles.vercel.app/api/get?platform=codeforces&username=akshayyy13)
-
-[![Codeforces Stats](https://cf-leaderboard-omega.vercel.app/api?username=akshayyy13)](https://codeforces.com/profile/akshayyy13)
-
-- 🔰 Solved 350+ DSA problems on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aks333552/practice/)
+[![CodeChef Stats](https://cp-logo.vercel.app/codechef/akshayyy13)](https://www.codechef.com/users/akshayyy13)
 
 ## 🚀 About Me
 
