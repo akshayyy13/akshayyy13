@@ -4,11 +4,13 @@
 
 ## 📊 GitHub Stats
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayyy13&show_icons=true&theme=default&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayyy13&layout=compact&langs_count=6&theme=default)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/akshayyy13?theme=dark)
+
+![Codeforces](https://cp-profiles.vercel.app/api/get?platform=codeforces&username=akshayyy13)
+
+[![Codeforces Stats](https://cf-leaderboard-omega.vercel.app/api?username=akshayyy13)](https://codeforces.com/profile/akshayyy13)
 
 ## 🚀 About Me
 
