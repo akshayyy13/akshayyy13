@@ -8,6 +8,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayyy13&layout=compact&langs_count=6&theme=default)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/<akshayyy13>?theme=unicorn)
+
 ## 🚀 About Me
 
 - 👨‍💻 I'm currently working in TCS Bangalore
