@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm currently working in TCS  
+- 👨‍💻 I'm currently working in TCS Bangalore
 - 🌱 Learning DSA. 
 - 💬 Ask me about C++, DBMS, and MERN  
 - 📍 From Bhilai, Chhattisgarh  
